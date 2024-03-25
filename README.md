@@ -1,5 +1,4 @@
-
-<div align="center"> Olá, eu sou o Guilherme Barbosa! Bem vindo ao meu perfil!</div>
+## Olá, eu sou o Guilherme Barbosa! Bem vindo ao meu perfil!
 
 <div>
   <a href = "https://github.com/GuiBarbosa13">
