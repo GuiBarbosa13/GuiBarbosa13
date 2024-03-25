@@ -8,8 +8,14 @@
     
 ##
 
-<div>
+<div align = "center">
   <a href = "https://www.linkedin.com/in/guilherme-barbosa-5600242b0/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>  
+  </a>
+
+<div align = "end">
+    <img width = "10%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODV1OXdicDY5bDFudmJvbzN2Z3YydmhqanJ1ZW5wMm0xbnQyMWJ2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif"
+    >
+  </div>
+  
 </div>
