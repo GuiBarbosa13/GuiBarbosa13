@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá, eu sou o Guilherme Barbosa! Bem vindo ao meu perfil!
+
+<div>
+  <a href = "https://github.com/GuiBarbosa13">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=GuiBarbosa13&show_icons=true&theme=great-gatsby">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBarbosa13&layout=compact&theme=great-gatsby">
+</div>
 
 <!--
 **GuiBarbosa13/GuiBarbosa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
