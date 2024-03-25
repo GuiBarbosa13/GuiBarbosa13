@@ -1,4 +1,5 @@
-### Olá, eu sou o Guilherme Barbosa! Bem vindo ao meu perfil!
+
+<div align="center"> Olá, eu sou o Guilherme Barbosa! Bem vindo ao meu perfil!</div>
 
 <div>
   <a href = "https://github.com/GuiBarbosa13">
